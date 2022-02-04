@@ -6,7 +6,7 @@
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/react.js-native-zp-full-stack?style=plastic "Total de Observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic "Total de Estrelas Recebidas")
 &nbsp;
